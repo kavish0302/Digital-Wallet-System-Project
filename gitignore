@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtualenv
+venv/
+env/
+ENV/
+*.env
+
+# SQLite
+db.sqlite3
+
+# Django
+*.log
+local_settings.py
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
